@@ -149,6 +149,7 @@ main aside ul {
     position: fixed;
     width: 100%;
 }
+
 main aside li:hover {
     background-color: rgb(208, 206, 204);
 }
@@ -208,3 +209,4 @@ main .video-container .video .pf p {
 li:hover{
     cursor: pointer;
 }
+
