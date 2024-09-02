@@ -210,3 +210,11 @@ li:hover{
     cursor: pointer;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.music, .All, .mixs, .indie{
+    color: white;
+}
